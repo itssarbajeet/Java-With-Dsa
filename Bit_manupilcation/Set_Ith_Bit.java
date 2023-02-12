@@ -5,6 +5,7 @@ public class Set_Ith_Bit {
     }
     public static void main(String[] args) {
         Scanner obj = new Scanner (System.in);
+        System.out.print("enter  a number");
         int i=1;
         int num=obj.nextInt();
         System.out.print("the ith is now set as one and the new number is "+ Set_Ith_Bit1(num,i));
