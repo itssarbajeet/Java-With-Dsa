@@ -9,7 +9,8 @@ public class sad {
             for (int j = 1; j <= n; j++) {
                 if (j <= i) {
                     System.out.print(j + " ");
-                } else {
+                } 
+                else {
                     System.out.print(n - j + 1 + " ");
                     
                 }
