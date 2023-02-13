@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class Set_Ith_Bit {
     public static int Set_Ith_Bit1(int num, int i){

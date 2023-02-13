@@ -3,6 +3,7 @@ public class Clear_Ith_Bit {
     public static int Clear_Ith_Bit1 (int num,int i) {
         int r= ~(1<<i);
         return num & r;
+        
     
     }
     public static void main(String [] args ){

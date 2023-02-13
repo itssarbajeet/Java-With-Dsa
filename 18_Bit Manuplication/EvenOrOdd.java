@@ -7,6 +7,7 @@ public class EvenOrOdd {
         } else {
             return "even";
             
+       
         }
     }
     public static void main(String[] args) {

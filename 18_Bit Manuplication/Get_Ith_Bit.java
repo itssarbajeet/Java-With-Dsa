@@ -9,6 +9,7 @@ public class Get_Ith_Bit {
             return 1;
         }
     }
+    
     public static void main(String[] args) {
         Scanner obj = new Scanner (System.in);
         int i=obj.nextInt();

@@ -7,6 +7,7 @@ public class No_Of_ones_in_Binary {
         while (n>0) {          
             if ((n & 1)==1)
             {
+                
                 c=c+1;
             }
             n=n>>1;

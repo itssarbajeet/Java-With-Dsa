@@ -11,6 +11,7 @@ public class Power_of_two_or_not {
                 System.out.println(n+" is power of two");
             }
             else
+            
             { 
                 ++d;
             }

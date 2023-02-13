@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class Clear_Range_Of_Bits {
     public static int clear_Range_Of_Bits1(int num, int i, int j) {

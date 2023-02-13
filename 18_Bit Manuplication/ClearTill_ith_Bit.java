@@ -4,6 +4,7 @@ public class ClearTill_ith_Bit {
         return num &(~0<<i);
 
     }
+    
     public static  void main(String[] args) {
         int num=15;
         int i=2;
