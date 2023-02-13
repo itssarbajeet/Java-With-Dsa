@@ -16,4 +16,5 @@ public class Fast_exponential {
         int n=3;
         System.out.println(a +" to the power " + n + " is " + Fast_exponential1(a,n));
     }
+    
 }

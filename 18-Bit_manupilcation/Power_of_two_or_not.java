@@ -5,7 +5,6 @@ public class Power_of_two_or_not {
         int d=0;
         int n=512;
         for(int i=0;i<31;i++){
-            
             ++s;
             if(1<<i== n){
                 

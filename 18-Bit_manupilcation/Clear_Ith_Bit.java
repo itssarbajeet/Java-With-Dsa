@@ -11,6 +11,7 @@ public class Clear_Ith_Bit {
         int num=sc.nextInt();
         System.out.println("enter the ith position to clear");
         int i=sc.nextInt();
+        
         System.out.println("The "+ i + "th Bit Of The " + num + "is Cleared and The new num is "+ Clear_Ith_Bit1(num, i));
     }
     

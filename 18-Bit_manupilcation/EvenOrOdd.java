@@ -16,4 +16,5 @@ public class EvenOrOdd {
         
         System.out.println("The entered number " + num + " is " + evenOrOdd(num));
     }
+    
 }
