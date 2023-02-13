@@ -9,7 +9,6 @@ public class Find_the_nth_fibonnaic_series {
             int fn2=Find_the_nth_fibonnaic_series1(n-2);
             int fn=fn1+fn2;
             return fn;
-        
         }
         }
         public static  void main(String[] args) {
