@@ -11,7 +11,7 @@ public class Factorial_of_number {
     }
     public static void main(String[] args) {
         int n = 0;
-        Factorial_of_number1(n);
+        System.out.print(Factorial_of_number1(n));
     }
 
 }
