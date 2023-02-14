@@ -13,3 +13,4 @@ public class Increasing_number {
         Decresing_number1(n);
     }
 }
+

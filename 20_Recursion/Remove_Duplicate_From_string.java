@@ -4,6 +4,7 @@ public class Remove_Duplicate_From_string {
         if(i == str.length()){
             System.out.println(newStr);
             return;
+
         }
         char character = str.charAt(i);
         if(map[character - 'a']== true){
@@ -21,3 +22,4 @@ public class Remove_Duplicate_From_string {
         Remove_Duplicate_From_string1(0, new StringBuilder(""), str, map);
     }
 }
+

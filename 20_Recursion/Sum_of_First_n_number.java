@@ -14,3 +14,5 @@ public class Sum_of_First_n_number {
     }}
     
 
+
+    

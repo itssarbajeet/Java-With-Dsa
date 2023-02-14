@@ -18,3 +18,4 @@ public class Optimized_power_of_any_no {
         int pow=4;
         System.out.println("the ans is "+Optimized_power_of_any_no(no, pow));
 }}
+

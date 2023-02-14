@@ -7,7 +7,6 @@ return i;
 if (i == arr.length - 1) {
 return -1;
 }
-
     return firstOccurrence(arr, key, i + 1);
 }
 

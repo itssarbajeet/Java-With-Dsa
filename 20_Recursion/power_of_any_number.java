@@ -10,3 +10,4 @@ public class power_of_any_number {
         int num=5;
         int topow=3;
         System.out.println(power_of_any_number1(num, topow));}}
+        

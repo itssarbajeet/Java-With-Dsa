@@ -13,5 +13,4 @@ public class Factorial_of_number {
         int n = 5;
         System.out.print(Factorial_of_number1(n));
     }
-
 }
