@@ -1,3 +1,21 @@
+/*
+****************
+*******  *******
+******    ******
+*****      *****
+****        ****
+***          ***
+**            **
+*              *
+*              *
+**            **
+***          ***
+****        ****
+*****      *****
+******    ******
+*******  *******
+****************
+ */
 import java.util.*;
 class PattenCC{
     public static int patten2(int n){
@@ -13,8 +31,7 @@ class PattenCC{
             }
             for (int j=0;j<i;j++){
                 System.out.print("*");
-            }
-            
+            }     
             System.out.println();
         }
         return 0;
@@ -22,6 +39,7 @@ class PattenCC{
     public static int patten1(int n){
         for(int i=0;i<n;i++){
             for (int j=1;j<=i+1;j++){
+
                 System.out.print("*");
             }
             int f=(n*2-(i+1)*2);
