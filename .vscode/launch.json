@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stack_using_2_queue_push_method",
+            "request": "launch",
+            "mainClass": "stack_using_2_queue_push_method",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "stack_using_2_queue_pop_method",
+            "request": "launch",
+            "mainClass": "stack_using_2_queue_pop_method",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Queue_using_2_Stacks_Pop_method",
+            "request": "launch",
+            "mainClass": "Queue_using_2_Stacks_Pop_method",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Queue_using_2_Stacks_Pop_method$Queue",
+            "request": "launch",
+            "mainClass": "Queue_using_2_Stacks_Pop_method$Queue",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Queue_using_2_Stacks_Push_method",
+            "request": "launch",
+            "mainClass": "Queue_using_2_Stacks_Push_method",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Queue_using_java_Framework",
+            "request": "launch",
+            "mainClass": "Queue_using_java_Framework",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "implementation_of_the_queue_using_LinkedList",
+            "request": "launch",
+            "mainClass": "implementation_of_the_queue_using_LinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Circular_Queue_Using_Array",
+            "request": "launch",
+            "mainClass": "Circular_Queue_Using_Array",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "implementation_of_queue_Using_Array",
+            "request": "launch",
+            "mainClass": "implementation_of_queue_Using_Array",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "testing",
             "request": "launch",
             "mainClass": "testing",
