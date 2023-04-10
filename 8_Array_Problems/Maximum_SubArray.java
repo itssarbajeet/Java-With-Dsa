@@ -13,8 +13,6 @@ class Main {
         }
         return max1;
     }
-    
-
 public static void main(String[] args) {
 int arr[]={-5,2,-3,1,-8,4};
 System.out.println("The MAximum subArray sum is : " +name(arr));

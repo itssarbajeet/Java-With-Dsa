@@ -19,7 +19,8 @@ public class Suduko_solver {
             }
         }
         // If all cells are filled, return true
-        if (!isEmpty) {  // if blank spaces exits then isEmpty is true, so we use !isEmpty is true then return true
+        if (!isEmpty) {  // if blank spaces exits then isEmpty is true, so we use 
+                        //!isEmpty is true then return true
             return true;
         }
         // Try values for the empty cell

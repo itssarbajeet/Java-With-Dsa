@@ -6,7 +6,7 @@ class PlaceQueensOnChessboard {
                 return false;
             }
         }
-        // Check upper-left diagonal
+        //Check upper-left diagonal
         for (int row = i - 1, column = j - 1; row >= 0 && column >= 0; row--, column--) {
             if (board[row][column] == 'Q') {
                 return false;
@@ -20,7 +20,6 @@ class PlaceQueensOnChessboard {
         }
         return true;
     }
-
     public static void printBoard(char[][] board) {
         System.out.println("------------- CHESS BOARD----------");
         for (int i = 0; i < board.length; i++) {

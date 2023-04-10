@@ -1,0 +1,455 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "testing",
+            "request": "launch",
+            "mainClass": "testing",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "TestClass",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "max_Array_in_Histogram",
+            "request": "launch",
+            "mainClass": "max_Array_in_Histogram",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "find_Duplicate_parentheses",
+            "request": "launch",
+            "mainClass": "find_Duplicate_parentheses",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "valid_parentheses",
+            "request": "launch",
+            "mainClass": "valid_parentheses",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "next_Greatest_Element",
+            "request": "launch",
+            "mainClass": "next_Greatest_Element",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Stock_span_problem",
+            "request": "launch",
+            "mainClass": "Stock_span_problem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "reverse_a_stack",
+            "request": "launch",
+            "mainClass": "reverse_a_stack",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "reverse_a_String_using_stack",
+            "request": "launch",
+            "mainClass": "reverse_a_String_using_stack",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "push_data_to_bottom_of_the_stack$stack",
+            "request": "launch",
+            "mainClass": "push_data_to_bottom_of_the_stack$stack",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Stack_using_LinkedList",
+            "request": "launch",
+            "mainClass": "Stack_using_LinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Stack_using_LinkedList$Stack",
+            "request": "launch",
+            "mainClass": "Stack_using_LinkedList$Stack",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Stacks_using_java_framework",
+            "request": "launch",
+            "mainClass": "Stacks_using_java_framework",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Implementation_of_pop_push_Peek_in_ArrayList",
+            "request": "launch",
+            "mainClass": "Implementation_of_pop_push_Peek_in_ArrayList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "MyLinkedList",
+            "request": "launch",
+            "mainClass": "MyLinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "does_pair_sum_to_get_target_in_sorted_or_rotated_array_optimized",
+            "request": "launch",
+            "mainClass": "does_pair_sum_to_get_target_in_sorted_or_rotated_array_optimized",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "does_pair_sum_to_get_target_in_sorted_or_rotated_array_bruteforce",
+            "request": "launch",
+            "mainClass": "does_pair_sum_to_get_target_in_sorted_or_rotated_array_bruteforce",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "does_pair_sum_to_get_target_optimized",
+            "request": "launch",
+            "mainClass": "does_pair_sum_to_get_target_optimized",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "does_pair_sum_to_get_target_brute_force",
+            "request": "launch",
+            "mainClass": "does_pair_sum_to_get_target_brute_force",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "pair_sum_to_get_target_brute_force",
+            "request": "launch",
+            "mainClass": "pair_sum_to_get_target_brute_force",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Most_water_stored_two_pointer_approach",
+            "request": "launch",
+            "mainClass": "Most_water_stored_two_pointer_approach",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Most_water_stored_brute_force",
+            "request": "launch",
+            "mainClass": "Most_water_stored_brute_force",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Check_sorted_array_or_not",
+            "request": "launch",
+            "mainClass": "Check_sorted_array_or_not",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "ClearTill_ith_Bit",
+            "request": "launch",
+            "mainClass": "ClearTill_ith_Bit",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Clear_Ith_Bit",
+            "request": "launch",
+            "mainClass": "Clear_Ith_Bit",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Clear_Range_Of_Bits",
+            "request": "launch",
+            "mainClass": "Clear_Range_Of_Bits",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "DSA_Question",
+            "request": "launch",
+            "mainClass": "DSA_Question",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Decreasing_Number",
+            "request": "launch",
+            "mainClass": "Decreasing_Number",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Factorial_of_number",
+            "request": "launch",
+            "mainClass": "Factorial_of_number",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Fast_exponential",
+            "request": "launch",
+            "mainClass": "Fast_exponential",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Find_all_subsets",
+            "request": "launch",
+            "mainClass": "Find_all_subsets",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Find_all_the_no_of__queens_placement_possible",
+            "request": "launch",
+            "mainClass": "Find_all_the_no_of__queens_placement_possible",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Find_all_the_queens_placement",
+            "request": "launch",
+            "mainClass": "Find_all_the_queens_placement",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Find_the_nth_fibonnaic_series",
+            "request": "launch",
+            "mainClass": "Find_the_nth_fibonnaic_series",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Get_Ith_Bit",
+            "request": "launch",
+            "mainClass": "Get_Ith_Bit",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Give_the_only_One_solution_for_the_queen_placement",
+            "request": "launch",
+            "mainClass": "Give_the_only_One_solution_for_the_queen_placement",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Increasing_number",
+            "request": "launch",
+            "mainClass": "Increasing_number",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Merge_sort",
+            "request": "launch",
+            "mainClass": "Merge_sort",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "No_Of_ones_in_Binary",
+            "request": "launch",
+            "mainClass": "No_Of_ones_in_Binary",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "No_of_binary_string_without_Consuitive",
+            "request": "launch",
+            "mainClass": "No_of_binary_string_without_Consuitive",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "No_of_grid_ways",
+            "request": "launch",
+            "mainClass": "No_of_grid_ways",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "No_of_grid_ways_using_math_formula",
+            "request": "launch",
+            "mainClass": "No_of_grid_ways_using_math_formula",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Optimized_power_of_any_no",
+            "request": "launch",
+            "mainClass": "Optimized_power_of_any_no",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Paring_Friends",
+            "request": "launch",
+            "mainClass": "Paring_Friends",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "PattenCC",
+            "request": "launch",
+            "mainClass": "PattenCC",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Patten_partice1",
+            "request": "launch",
+            "mainClass": "Patten_partice1",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Permutation_of_string",
+            "request": "launch",
+            "mainClass": "Permutation_of_string",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "PlaceQueensOnChessboard",
+            "request": "launch",
+            "mainClass": "PlaceQueensOnChessboard",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Power_of_two_or_not",
+            "request": "launch",
+            "mainClass": "Power_of_two_or_not",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Print_all_the_Binary_digit",
+            "request": "launch",
+            "mainClass": "Print_all_the_Binary_digit",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Quick_sort",
+            "request": "launch",
+            "mainClass": "Quick_sort",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Duplicate_From_string",
+            "request": "launch",
+            "mainClass": "Remove_Duplicate_From_string",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Search_in_an_rotated_array",
+            "request": "launch",
+            "mainClass": "Search_in_an_rotated_array",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Set_Ith_Bit",
+            "request": "launch",
+            "mainClass": "Set_Ith_Bit",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Suduko_solver",
+            "request": "launch",
+            "mainClass": "Suduko_solver",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_First_n_number",
+            "request": "launch",
+            "mainClass": "Sum_of_First_n_number",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Tiling_problem",
+            "request": "launch",
+            "mainClass": "Tiling_problem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "first_occurence",
+            "request": "launch",
+            "mainClass": "first_occurence",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "lastoccurence",
+            "request": "launch",
+            "mainClass": "lastoccurence",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "power_of_any_number",
+            "request": "launch",
+            "mainClass": "power_of_any_number",
+            "projectName": "Java-With-Dsa_79e2b374"
+        }
+    ]
+}
