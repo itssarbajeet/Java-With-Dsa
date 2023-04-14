@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fractional_knapSnack",
+            "request": "launch",
+            "mainClass": "Fractional_knapSnack",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Activity_selection_ith_Start_time_sorted",
+            "request": "launch",
+            "mainClass": "Activity_selection_ith_Start_time_sorted",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Activity_selection_ith_end_time_sorted",
+            "request": "launch",
+            "mainClass": "Activity_selection_ith_end_time_sorted",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Queue_using_deque",
+            "request": "launch",
+            "mainClass": "Queue_using_deque",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Stack_and_Queue_using_deque",
+            "request": "launch",
+            "mainClass": "Stack_and_Queue_using_deque",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Queue_reversal",
+            "request": "launch",
+            "mainClass": "Queue_reversal",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Interleave_2_halves_of_a_Queue",
+            "request": "launch",
+            "mainClass": "Interleave_2_halves_of_a_Queue",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "nonreapeating_letter_from_a_stream_of_letters",
+            "request": "launch",
+            "mainClass": "nonreapeating_letter_from_a_stream_of_letters",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "stack_using_2_queue_push_method",
             "request": "launch",
             "mainClass": "stack_using_2_queue_push_method",

@@ -38,7 +38,6 @@ public class max_Array_in_Histogram {
         //step 3 push it
         s.push(i);
     }
-
     //find the area
     for(int i=0;i<arr.length;i++){
         int height=arr[i];
