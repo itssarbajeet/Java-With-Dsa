@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Chocola_Problem",
+            "request": "launch",
+            "mainClass": "Chocola_Problem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "job_Sequencing_problem",
+            "request": "launch",
+            "mainClass": "job_Sequencing_problem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Indian_coins",
+            "request": "launch",
+            "mainClass": "Indian_coins",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Max_length_chain_of_pairs",
+            "request": "launch",
+            "mainClass": "Max_length_chain_of_pairs",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Min_Absolute_difference_pairs",
+            "request": "launch",
+            "mainClass": "Min_Absolute_difference_pairs",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "Fractional_knapSnack",
             "request": "launch",
             "mainClass": "Fractional_knapSnack",
