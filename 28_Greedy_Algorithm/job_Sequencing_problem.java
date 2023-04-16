@@ -9,9 +9,7 @@ public class job_Sequencing_problem {
         public Job(int i, int d, int p){
             id = i;
             deadLine = d;
-            profit = p;
-        }
-    }
+            profit = p; }}
 
     public static void main(String args[]){
         int jobsInfo[][]={{4,20},{1,10},{1,40},{1,30}};
@@ -31,7 +29,6 @@ public class job_Sequencing_problem {
                 time++;
             }
         }
-
         System.out.println("max jobs = " + seq.size());
         for(int i=0; i<seq.size(); i++){
             System.out.print(seq.get(i) + " ");
