@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kth_Level_of_tree",
+            "request": "launch",
+            "mainClass": "Kth_Level_of_tree",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "top_view_Of_A_Tree",
+            "request": "launch",
+            "mainClass": "top_view_Of_A_Tree",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "subtree_of_Another_Tree$Node",
+            "request": "launch",
+            "mainClass": "subtree_of_Another_Tree$Node",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "longest_dirameter_of_A_Tree_Optimized_method",
+            "request": "launch",
+            "mainClass": "longest_dirameter_of_A_Tree_Optimized_method",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "longest_dirameter_of_A_Tree",
             "request": "launch",
             "mainClass": "longest_dirameter_of_A_Tree",
