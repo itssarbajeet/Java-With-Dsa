@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "merge_Two_Bst",
+            "request": "launch",
+            "mainClass": "merge_Two_Bst",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Size_of_Largest_BST_In_BT",
+            "request": "launch",
+            "mainClass": "Size_of_Largest_BST_In_BT",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Sorted_array_to_Balanced_BST",
+            "request": "launch",
+            "mainClass": "Sorted_array_to_Balanced_BST",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Validate_Bst",
+            "request": "launch",
+            "mainClass": "Validate_Bst",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "print_Root_To_Leaf",
+            "request": "launch",
+            "mainClass": "print_Root_To_Leaf",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "print_in_a_range",
+            "request": "launch",
+            "mainClass": "print_in_a_range",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Delete_from_the_Bst",
+            "request": "launch",
+            "mainClass": "Delete_from_the_Bst",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "search_In_A_Bst",
+            "request": "launch",
+            "mainClass": "search_In_A_Bst",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Build_Bst",
+            "request": "launch",
+            "mainClass": "Build_Bst",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "transform_To_Sum_Tree",
+            "request": "launch",
+            "mainClass": "transform_To_Sum_Tree",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Kth_Ancestor_Of_Node",
+            "request": "launch",
+            "mainClass": "Kth_Ancestor_Of_Node",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "minimum_Distance_Between_two_nodes",
+            "request": "launch",
+            "mainClass": "minimum_Distance_Between_two_nodes",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Lowest_common_ancestor_2",
+            "request": "launch",
+            "mainClass": "Lowest_common_ancestor_2",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Lowest_common_ancestor_1",
+            "request": "launch",
+            "mainClass": "Lowest_common_ancestor_1",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "Kth_Level_of_tree",
             "request": "launch",
             "mainClass": "Kth_Level_of_tree",

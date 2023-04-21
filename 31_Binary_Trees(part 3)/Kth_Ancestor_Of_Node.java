@@ -1,6 +1,5 @@
 import java.util.*;
-
-public class Kth_Level_of_tree {
+public class Kth_Ancestor_Of_Node {
     static class Node{
         int data;
         Node left;
@@ -11,20 +10,29 @@ public class Kth_Level_of_tree {
             this.left=null;
             this.right=null;
         }
-    
 }
-public static void KLevel(Node root,int level,int K_level){
+public static int KthAncestor(Node root,int n,int k){
     if(root==null){
-        return;
+        return -1;
     }
-    if(level==K_level){
-        System.out.print(root.data+" ");
-        return;
+    if(root.data==n){
+        return 0;
     }
-    KLevel(root.left,level+1,K_level);
-    KLevel(root.right,level+1,K_level);
+    int leftDist=KthAncestor(root.left, n, k);
+    int rightDist=KthAncestor(root.right, n, k);
+    if(leftDist==-1 && rightDist==-1){
+        return -1;
+    }
+    int max=Math.max(leftDist,rightDist);
+    if(max+1==k){
+        System.out.println(root.data);
+    }
+    return max+1;
+
+
 
 }
+
 
 public static void main(String[] args) {
     /*    1
@@ -40,8 +48,8 @@ public static void main(String[] args) {
     root.left.right=new Node(5);
     root.right.left=new Node(6);
     root.right.right=new Node(7);
-    int k_level=3;
-    KLevel(root,1,k_level);
+    int n=5,k=1;
+    KthAncestor(root, n, k);
 }
+    
 }
- 
