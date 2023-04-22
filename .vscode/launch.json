@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nearBy_cars",
+            "request": "launch",
+            "mainClass": "nearBy_cars",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Heap_Sort_ascending_order",
+            "request": "launch",
+            "mainClass": "Heap_Sort_ascending_order",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "implementation_of_heap_functions",
+            "request": "launch",
+            "mainClass": "implementation_of_heap_functions",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Implementaion_of_Priority_queue_for_storing_object",
+            "request": "launch",
+            "mainClass": "Implementaion_of_Priority_queue_for_storing_object",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Implementaion_of_Priority_queue_decending",
+            "request": "launch",
+            "mainClass": "Implementaion_of_Priority_queue_decending",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Implementaion_of_Priority_queue",
+            "request": "launch",
+            "mainClass": "Implementaion_of_Priority_queue",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "AVLTree",
+            "request": "launch",
+            "mainClass": "AVLTree",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "merge_Two_Bst",
             "request": "launch",
             "mainClass": "merge_Two_Bst",
