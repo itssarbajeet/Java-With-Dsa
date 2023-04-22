@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sliding_Window_Maximum",
+            "request": "launch",
+            "mainClass": "sliding_Window_Maximum",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMaximum",
+            "request": "launch",
+            "mainClass": "SlidingWindowMaximum",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Weakest_soilder",
+            "request": "launch",
+            "mainClass": "Weakest_soilder",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "connect_n_ropes",
+            "request": "launch",
+            "mainClass": "connect_n_ropes",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "nearBy_cars",
             "request": "launch",
             "mainClass": "nearBy_cars",
