@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Iterate_over_HashMap",
+            "request": "launch",
+            "mainClass": "Iterate_over_HashMap",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "hashMap_Operations",
+            "request": "launch",
+            "mainClass": "hashMap_Operations",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "sliding_Window_Maximum",
             "request": "launch",
             "mainClass": "sliding_Window_Maximum",
