@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "word_break_problem",
+            "request": "launch",
+            "mainClass": "word_break_problem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "search_in_trie",
+            "request": "launch",
+            "mainClass": "search_in_trie",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "insert_in_a_Trie",
+            "request": "launch",
+            "mainClass": "insert_in_a_Trie",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "subarray_sum_equal_to_K",
+            "request": "launch",
+            "mainClass": "subarray_sum_equal_to_K",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "largest_Subarray_With_Sum_0",
+            "request": "launch",
+            "mainClass": "largest_Subarray_With_Sum_0",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "find_Itinerary_from_Tickets",
+            "request": "launch",
+            "mainClass": "find_Itinerary_from_Tickets",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Intersection_of_two_array",
+            "request": "launch",
+            "mainClass": "Intersection_of_two_array",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "union_of_2_arrays",
+            "request": "launch",
+            "mainClass": "union_of_2_arrays",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Count_Distinct_Element",
+            "request": "launch",
+            "mainClass": "Count_Distinct_Element",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetCode",
+            "request": "launch",
+            "mainClass": "TreeSetCode",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "TreeSet",
+            "request": "launch",
+            "mainClass": "TreeSet",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "LinkedHashset",
+            "request": "launch",
+            "mainClass": "LinkedHashset",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "using_hashSet_Iterator_function",
+            "request": "launch",
+            "mainClass": "using_hashSet_Iterator_function",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "valid_Anagram",
+            "request": "launch",
+            "mainClass": "valid_Anagram",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "majority_Element",
+            "request": "launch",
+            "mainClass": "majority_Element",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "Iterate_over_HashMap",
             "request": "launch",
             "mainClass": "Iterate_over_HashMap",

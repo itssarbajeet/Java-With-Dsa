@@ -4,6 +4,7 @@
 class Node {
     int item, height;
     Node left, right;
+    public invalid[] children;
   
     Node(int d) {
       item = d;
