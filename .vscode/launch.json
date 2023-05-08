@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "zig_zag_LinkedList",
+            "request": "launch",
+            "mainClass": "zig_zag_LinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortLinkedList",
+            "request": "launch",
+            "mainClass": "MergeSortLinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "merge_sort_in_an_LinkedList",
+            "request": "launch",
+            "mainClass": "merge_sort_in_an_LinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "remove_Cycle_from_LL",
+            "request": "launch",
+            "mainClass": "remove_Cycle_from_LL",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Detect_the_cycle_LinkedList",
+            "request": "launch",
+            "mainClass": "Detect_the_cycle_LinkedList",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "count_Unique_substring",
             "request": "launch",
             "mainClass": "count_Unique_substring",

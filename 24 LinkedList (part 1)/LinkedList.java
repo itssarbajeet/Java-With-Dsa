@@ -266,4 +266,7 @@ public class LinkedList {
         ll.print();  
         ll.palindrome(); 
     }
+    public LinkedList.Node mergeSort(LinkedList.Node head2) {
+        return null;
+    }
 }
