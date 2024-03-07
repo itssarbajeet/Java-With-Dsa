@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HTMLParser",
+            "request": "launch",
+            "mainClass": "HTMLParser",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "HtmlParser",
+            "request": "launch",
+            "mainClass": "HtmlParser",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "HtmlParser",
+            "request": "launch",
+            "mainClass": "mcq.HtmlParser",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "postorder_Tree_travels",
+            "request": "launch",
+            "mainClass": "postorder_Tree_travels",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "All_bitMalupilation$Bitsmanipulation",
+            "request": "launch",
+            "mainClass": "All_bitMalupilation$Bitsmanipulation",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "zig_zag_LinkedList",
             "request": "launch",
             "mainClass": "zig_zag_LinkedList",

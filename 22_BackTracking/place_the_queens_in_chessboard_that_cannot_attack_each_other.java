@@ -31,7 +31,7 @@ class PlaceQueensOnChessboard {
         System.out.println();
     }
 
-    public static void placeQueens(char[][] board, int row) {
+    public static void  placeQueens(char[][] board, int row) {
         if (row == board.length) {
             printBoard(board);
             return;
@@ -43,10 +43,9 @@ class PlaceQueensOnChessboard {
                 board[row][j] = '.';
             }
         }
-    }
-
+    } 
     public static void main(String[] args) {
-        int n = 5;
+        int n = 4;
         char[][] board = new char[n][n];
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {

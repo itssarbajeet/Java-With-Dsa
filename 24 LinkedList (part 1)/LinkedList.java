@@ -2,13 +2,16 @@ import java.util.*;
 
 import javax.swing.text.PlainDocument;
 public class LinkedList {
+    //constructor
     public static class Node {
         int data;
         Node next;
-        public Node(int data) {
+        
+            Node(int data) {
             this.data = data;
             this.next = null;
         }}
+        //end of constructor
         //declaratiion of the head and tail
     public static Node head;
     public static Node tail;
@@ -248,7 +251,7 @@ public class LinkedList {
         ll.addFirst(1);
         ll.addFirst(2);
         ll.addLast(0);
-        ll.addInMiddle(0, 1);
+        ll.addInMiddle(10, 1);
         ll.addFirst(9);
         ll.print();
         ll.sizeOfLL();
