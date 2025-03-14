@@ -1,0 +1,99 @@
+Transaction 1:
+200.0 will be paid to om by ayush
+200.0 will be paid to om by sarba
+
+Transaction 2:
+150.0 will be paid to sarba by om
+150.0 will be paid to sarba by ayush
+
+Transaction 3:
+437.5 will be paid to ayush by om
+
+Transaction:
+200.00 will be paid to om by ayush
+200.00 will be paid to om by sarba
+
+Transaction:
+150.00 will be paid to sarba by om
+150.00 will be paid to sarba by ayush
+
+Transaction:
+437.50 will be paid to ayush by om
+
+Transaction:
+200.00 will be paid to om by ayush
+200.00 will be paid to om by sarba
+
+Transaction:
+150.00 will be paid to sarba by om
+150.00 will be paid to sarba by ayush
+
+Transaction:
+437.50 will be paid to ayush by om
+
+Transaction:
+200.00 will be paid to om by ayush
+200.00 will be paid to om by sarba
+
+Transaction:
+150.00 will be paid to sarba by om
+150.00 will be paid to sarba by ayush
+
+Transaction:
+437.50 will be paid to ayush by om
+
+Transaction:
+200.00 to be paid to om by ayush
+200.00 to be paid to om by sarba
+
+Transaction:
+150.00 to be paid to sarba by om
+150.00 to be paid to sarba by ayush
+
+Transaction:
+437.50 to be paid to ayush by om
+
+Transaction:
+200.00 to be paid to om by ayush
+200.00 to be paid to om by sarbajett
+
+Transaction:
+150.00 to be paid to sarbajett by om
+150.00 to be paid to sarbajett by ayush
+
+Transaction:
+437.50 to be paid to ayush by om
+
+Transaction:
+200.00 to be paid to om by ayush
+200.00 to be paid to om by sar
+
+Transaction:
+150.00 to be paid to sar by om
+150.00 to be paid to sar by ayush
+
+Transaction:
+437.50 to be paid to ayush by om
+
+Transaction:
+200.00 to be paid to om by ayush
+200.00 to be paid to om by sarba
+
+Transaction:
+150.00 to be paid to sarba by om
+150.00 to be paid to sarba by ayush
+
+Transaction:
+437.50 to be paid to ayush by om
+
+Transaction:
+200.00 to be paid to om by ayush
+200.00 to be paid to om by sarba
+
+Transaction:
+150.00 to be paid to sarba by om
+150.00 to be paid to sarba by ayush
+
+Transaction:
+437.50 to be paid to ayush by om
+

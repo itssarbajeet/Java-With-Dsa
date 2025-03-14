@@ -6,6 +6,216 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExpenseNavigatorGUI",
+            "request": "launch",
+            "mainClass": "ExpenseNavigatorGUI",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseManagerGUI",
+            "request": "launch",
+            "mainClass": "ExpenseManagerGUI",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseSplitterGUI",
+            "request": "launch",
+            "mainClass": "ExpenseSplitterGUI",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseSplitter",
+            "request": "launch",
+            "mainClass": "ExpenseSplitter",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseSplitterDB",
+            "request": "launch",
+            "mainClass": "ExpenseSplitterDB",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram",
+            "request": "launch",
+            "mainClass": "MainProgram",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "TicketBookingSystem",
+            "request": "launch",
+            "mainClass": "TicketBookingSystem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "LibrarySystem",
+            "request": "launch",
+            "mainClass": "LibrarySystem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "BankAccount",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "BankingSystem",
+            "request": "launch",
+            "mainClass": "BankingSystem",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "AlphabetAndNumberThreads",
+            "request": "launch",
+            "mainClass": "AlphabetAndNumberThreads",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "AlphabetPrinter",
+            "request": "launch",
+            "mainClass": "AlphabetPrinter",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "WordCounter",
+            "request": "launch",
+            "mainClass": "WordCounter",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "WordCounter",
+            "request": "launch",
+            "mainClass": "training.WordCounter",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "ThrowExample",
+            "request": "launch",
+            "mainClass": "ThrowExample",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "CountVowels",
+            "request": "launch",
+            "mainClass": "CountVowels",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "emailIdcheck",
+            "request": "launch",
+            "mainClass": "emailIdcheck",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "productOftwomatrix",
+            "request": "launch",
+            "mainClass": "productOftwomatrix",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "sumofDiagonal",
+            "request": "launch",
+            "mainClass": "sumofDiagonal",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Frequency_of_array",
+            "request": "launch",
+            "mainClass": "Frequency_of_array",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_k_times",
+            "request": "launch",
+            "mainClass": "Rotate_k_times",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "banking",
+            "request": "launch",
+            "mainClass": "banking",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Banking",
+            "request": "launch",
+            "mainClass": "Banking",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Manager",
+            "request": "launch",
+            "mainClass": "Manager",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "order",
+            "request": "launch",
+            "mainClass": "order",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Grades",
+            "request": "launch",
+            "mainClass": "Grades",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "trip",
+            "request": "launch",
+            "mainClass": "trip",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Pay1",
+            "request": "launch",
+            "mainClass": "Santu.Pay1",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "Pay",
+            "request": "launch",
+            "mainClass": "Santu.Pay",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
+            "name": "pay",
+            "request": "launch",
+            "mainClass": "Santu.pay",
+            "projectName": "Java-With-Dsa_79e2b374"
+        },
+        {
+            "type": "java",
             "name": "HTMLParser",
             "request": "launch",
             "mainClass": "HTMLParser",

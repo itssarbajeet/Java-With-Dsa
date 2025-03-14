@@ -35,7 +35,7 @@ public class count_Unique_substring {
             }
             curr = curr.children[idx];
         }
-        return curr.eow == true;
+        return curr.eow == true;   
     }
     public static int countNode(Node root){
         if(root==null){

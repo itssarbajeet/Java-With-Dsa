@@ -10,13 +10,12 @@ public class Chocola_Problem {
         int hp=1,vp=1;
         int cost=0;
         while(h<costHor.length && v<costVer.length){
-            //vertical cost <hor Cost
-            if(costVer[v]<=costHor[h]){ //horizntal cut
+            if(costVer[v]<=costHor[h]){ 
                 cost +=  (costHor[h]*vp);
                 hp++;
                 h++;
             }
-            else{ //Vertical cut
+            else{
                 cost += (costVer[v]*hp);
                 vp++;
                 v++;

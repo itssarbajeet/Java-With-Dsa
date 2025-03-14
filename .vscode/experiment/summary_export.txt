@@ -1,0 +1,21 @@
+Expense Manager Summary - Thu Mar 13 12:00:23 IST 2025
+Mode: Bill Splitter
+
+Group Expenses/Bill Settlement:
+787.50 to be paid to sar by ayush
+187.50 to be paid to sar by om
+
+
+Personal Expenses Summary:
+
+om:
+  Group Expenses (Personal Share): 200.00
+  Total Personal Expenses: 0.00
+
+ayush:
+  Total Personal Expenses: 0.00
+
+sar:
+  Group Expenses (Personal Share): 587.50
+  Total Personal Expenses: 0.00
+

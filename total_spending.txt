@@ -1,0 +1,7 @@
+Total amount spent: 1432.5
+
+Individual spending details:
+sarba: 1432.5 (paid)
+ayush: 97.5 (owes)
+om: 127.5 (owes)
+sharim: 1207.5 (owes)
